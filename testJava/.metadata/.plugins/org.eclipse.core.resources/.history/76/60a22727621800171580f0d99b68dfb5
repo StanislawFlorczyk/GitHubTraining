@@ -1,0 +1,21 @@
+import java.util.ArrayList;
+
+public class Start {
+    Double getAverage(Person pe1, Person pe2)
+    {
+        return (pe1.age + pe2.age)/2;
+    }
+    public static void main(final String[] args) {
+        System.out.println("Start");
+        final ArrayList<Person> list = new ArrayList<>();
+        list.add(new Person("AAA", 18));
+        list.add(new Person("BBB", 67));
+        list.add(new Person("CCC", 67));
+        Person p1 = list.get(0);
+        Person p2 = list.get(1);
+        Double average = (p1, p2) -> (p1.age + p2.age)/2;
+        System.out.println();
+
+    }
+}
+
