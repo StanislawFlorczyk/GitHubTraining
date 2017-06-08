@@ -1,3 +1,3 @@
-GitRepositoriesView.GitDirectories=C\:\\Sources\\FDK\\fdk_tools-toolsuite\\.git;C\:\\ALL\\Source\\fdk_tools-toolsuite\\.git;C\:\\ALL\\Source\\GitHubTraining\\.git;
-GitRepositoriesView.GitDirectories.relative=C\:\\Sources\\FDK\\fdk_tools-toolsuite\\.git;C\:\\ALL\\Source\\fdk_tools-toolsuite\\.git;C\:\\ALL\\Source\\GitHubTraining\\.git;
+GitRepositoriesView.GitDirectories=C\:\\ALL\\Source\\fdk_tools-toolsuite\\.git;C\:\\ALL\\Source\\FDK Tool\\fdk_tool\\.git;
+GitRepositoriesView.GitDirectories.relative=C\:\\ALL\\Source\\fdk_tools-toolsuite\\.git;C\:\\ALL\\Source\\FDK Tool\\fdk_tool\\.git;
 eclipse.preferences.version=1
